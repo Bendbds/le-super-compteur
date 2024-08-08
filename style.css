@@ -1,0 +1,72 @@
+html {
+height: auto;
+width: auto;
+background-color: darkslategrey;
+}
+
+#compteur {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: bisque;
+}
+.boutons {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.bouton {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: xx-large;
+    font-style: oblique;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(142, 53, 53);
+    border-radius: 20px;
+    margin: 20px;
+}
+
+#total {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    font-size: xx-large;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: bisque;
+}
+
+#message {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: bisque;
+}
+
+.explications {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: bisque;
+}
