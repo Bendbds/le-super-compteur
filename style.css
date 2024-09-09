@@ -14,11 +14,13 @@ background-color: darkslategrey;
     margin: 20px;
     background-color: bisque;
 }
+
 .boutons {
     display: flex;
     justify-content: center;
     text-align: center;
 }
+
 .bouton {
     display: flex;
     justify-content: center;
